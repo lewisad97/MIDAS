@@ -1,0 +1,10 @@
+Raw Materials.
+
+For the MIDAS CubeSat prototype frame I will be using pine stripwood.
+
+The piece I have braught from a vendor at £2.97 fo a single piece, 11mm(W) 10mm(D) 900mm(L).
+
+I have chosen this material as it is available at low cost due to being a softwood, 
+lightweight and easy to cut with my handsaw and available pre cut to dimensions I beleive is sufficient for the purpose of the product which is when assembled as a cubesat chasis 
+to be rhobust enough to keeps its structual integrity 
+while housing the lighweight hardware components of the cubesat for prototyping.
